@@ -1,4 +1,5 @@
-﻿import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
+// just sales latop joinee 
+import React, { Suspense, lazy, useEffect, useRef, useState } from 'react';
 import { useSession, getSupabase, pokeSession } from './session.js';
 import { friendlyAuthError } from './authMessages.js';
 import BrandIcon from './brand.jsx';
